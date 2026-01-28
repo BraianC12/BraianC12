@@ -5,10 +5,8 @@
 </h3>
 
 <p align="center">
-  <sup>
     🎓 Técnico en Programación — Escuela Técnica N.º 4<br/>
     🎓 Ingeniería en Informática — UNAJ
-  </sup>
 </p>
 
 <p align="center">
