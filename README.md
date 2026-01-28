@@ -1,4 +1,6 @@
-<h1 align="center">Braian Carranza</h1>
+<h1 align="center">
+  Braian Carranza 💻 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
+</h1> 
 
 <h3 align="center">
   Estudiante de Ingeniería en Informática | Python · Data · Backend
@@ -142,7 +144,7 @@
 
 <p align="center">
   <a href="mailto:braianenrique89@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge""/>
   </a>
   <a href="https://www.linkedin.com/in/braian-carranza-3775b3292/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
