@@ -3,7 +3,7 @@
 </h1> 
 
 <h3 align="center">
-  Estudiante de Ingeniería en Informática | Python · Data · Backend
+  Full Stack Developer | C# & Python | Clean Architecture & APIs
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 </p>
 
 <blockquote align="center">
-  <i>Construyendo soluciones con código, datos y lógica.</i>
+  <i>Construyendo soluciones con código, arquitectura y lógica.</i>
 </blockquote>
 
 ---
@@ -33,18 +33,15 @@
 
 <p>
   Soy estudiante de <b>Ingeniería en Informática (3er año)</b> en la
-  <b>Universidad Nacional Arturo Jauretche</b>.
+  <b>Universidad Nacional Arturo Jauretche</b> y Técnico en Programación.
 </p>
 
 <p>
-  Me enfoco en el desarrollo de soluciones con <b>Python</b>, aplicadas a
-  <b>backend, análisis de datos y procesos ETL</b>, trabajando con bases de datos,
-  consultas SQL y sistemas reales.
+  Me enfoco en el desarrollo de software <b>Full Stack (Backend y Frontend)</b>, utilizando principalmente <b>C# y Python</b>. Aplico principios de <b>Arquitectura Limpia (Clean Architecture)</b>, patrones de diseño y desarrollo de <b>APIs</b> orientadas a sistemas reales.
 </p>
 
 <p>
-  Trabajo principalmente con <b>C# y Python</b>, aplicando buenas prácticas,
-  patrones de diseño y estructuras de datos.
+  Trabajo bajo <b>metodologías ágiles</b>, utilizando herramientas como <b>Trello</b> para la gestión y seguimiento de requerimientos funcionales del sistema, y <b>Slack</b> para asegurar una comunicación fluida y efectiva en equipo.
 </p>
 
 ---
@@ -57,22 +54,17 @@
     <td width="50%" valign="top">
       <h3 align="center">🎾 Sistema de Gestión de Pádel</h3>
       <p>
-        Sistema web desarrollado con <b>Python y SQLite</b> para la gestión de alumnos,
-        turnos y pagos, con roles diferenciados (administrador / alumno),
-        control de accesos y carga de comprobantes.
+        Sistema web Full Stack desarrollado con <b>Python y SQLite</b> para la gestión integral de una escuela de pádel (alumnos, turnos y pagos).
       </p>
       <p>
-        Incluye autenticación, validaciones, manejo de sesiones, persistencia de datos
-        y simulación de un entorno real de gestión.
+        Incluye roles diferenciados (administrador / alumno), control de accesos, autenticación, validaciones, manejo de sesiones y carga de comprobantes.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
       </p>
       <p align="center">
         <a href="https://github.com/BraianC12/EscuelitaDePadel" target="_blank">
@@ -80,28 +72,24 @@
         </a>
       </p>
     </td>
-    <!-- PROYECTO ETL -->
+    <!-- PROYECTO API / BACKEND -->
     <td width="50%" valign="top">
-      <h3 align="center">📊 ETL de Empleados – Python & SQLite</h3>
+      <h3 align="center">⚙️ API REST de Backend (C# / Python)</h3>
       <p>
-        Proyecto ETL desarrollado en Python que extrae datos desde CSV,
-        los limpia y normaliza, y los carga en una base de datos SQLite.
+        Desarrollo de servicios backend y estructuración de bases de datos relacionales orientadas a lógica de negocio real.
       </p>
       <p>
-        Incluye métricas como sueldo promedio, empleados activos,
-        análisis por sector y ranking de sueldos.
+        Enfocado en la construcción de endpoints robustos, manejo de consultas SQL y aplicación de buenas prácticas de desarrollo y arquitectura.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/CSV-1F8ACB?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/ETL-2E8B57?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Backend-0A66C2?style=for-the-badge"/>
       </p>
       <p align="center">
-        <a href="https://github.com/BraianC12/etl_empleados" target="_blank">
+        <a href="https://github.com/BraianC12" target="_blank">
           <img src="https://img.shields.io/badge/Repositorio-GitHub-black?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -111,7 +99,7 @@
 
 ---
 
-<h2>🛠️ Tecnologías</h2>
+<h2>🛠️ Tecnologías & Herramientas</h2>
 
 <p align="center"><b>Lenguajes</b></p>
 <p align="center">
@@ -121,20 +109,22 @@
 <p align="center"><b>Bases de Datos & SQL</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlite,mysql&theme=light"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 </p>
 
-<p align="center"><b>Herramientas & Entorno</b></p>
+<p align="center"><b>Herramientas, Entorno & Gestión</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
   <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 
-<p align="center"><b>Conceptos</b></p>
+<p align="center"><b>Conceptos & Arquitectura</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ETL-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0284C7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs%20REST-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/POO-6E40C9?style=for-the-badge"/>
 </p>
 
@@ -144,7 +134,7 @@
 
 <p align="center">
   <a href="mailto:braianenrique89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge""/>
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/braian-carranza-3775b3292/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -157,7 +147,6 @@
   </a>
 </p>
 
-
 <p align="center">
-  ⭐ Siempre abierto a aprender, crecer y enfrentar nuevos desafíos.
+  ⭐ Siempre abierto a aprender, crecer y enfrentar nuevos desafíos tecnológicos.
 </p>
